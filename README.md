@@ -1,5 +1,9 @@
 # Coinflip over the phone
 
+### Authoren
+- @Lukasz-Reszcz
+- @youssef315399
+
 ### Projektbeschreibung
 Das Projektziel besteht darin, eine faire und sichere Methode für das Durchführen eines Münzwurfs zu entwickeln, bei der die beteiligten Personen sich nicht gegenseitig beobachten können.
 
