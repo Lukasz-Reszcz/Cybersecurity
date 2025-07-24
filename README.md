@@ -59,17 +59,6 @@ Abschlusspräsentation:
 https://docs.google.com/presentation/d/1wrlrA9bhwajSp36e3IZHWxsz65wk13IxhTzA7fFNfXE/edit?usp=sharing
 
 
-## Gmail Accounts
-Alice: 
-- a70904597@gmail.com
-- @you-91YA
-- nydv panh ofhz wtxi
-
-
-Bob:
-- p36494089@gmail.com
-- @you-91YA
-- zgsr svbx sxfk qpmc
   
 ## Vorlesungsfolien:
 - Zero Knowledge Proofs: https://iuk.one/1033-1211.pdf
