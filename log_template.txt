@@ -1,0 +1,16 @@
+[Alice]
+Cration date: ###
+Send date: ###
+String1: ###
+String2: ###
+Coin_flip_value: ###
+Hash_value: ###
+From: ###
+To: ###
+==================================
+[Bob]
+Cration date: ###
+Send date: ###
+Choice: ###
+From: ###
+To: ###

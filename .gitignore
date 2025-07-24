@@ -1,0 +1,10 @@
+# ignore workspace file for VS Code
+workspace.code-workspace
+
+# ignore python cache dir
+__pycache__/
+
+# ignore password
+password.txt
+
+log.txt
